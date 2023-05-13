@@ -1,0 +1,124 @@
+{
+    "data": {
+        "vacation_id": 1,
+        "plans": [
+            {
+                "plan_idx": 1,
+                "days": [
+                    {
+                        "day_idx": 1,
+                        "activities": [
+                            {
+                                "activity_id": 1,
+                                "activity_name": "Hudson River Cruise",
+                                "activity_type": "Site",
+                                "activity_description": "Cruise the Hudson River",
+                                "activity_address": "123 Main Street, New York, NY10001",
+                                "activity_phone": "212-555-5555",
+                                "activity_website": "www.hudsonrivercruise.com",
+                                "activity_image": "https://www.onlyinyourstate.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-08-at-9.31.21-PM.png",
+                                "activity_start_datetime": "2015-07-01 10:00:00",
+                                "activity_end_datetime": "2015-07-01 11:00:00",
+                                "activity_duration": 60,
+                                "activity_start_address": "",
+                                "activity_end_address": "",
+                                "activity_latitude": 123.342,
+                                "activity_longitude": -70.343
+                            },
+                            {
+                                "activity_id": 13413,
+                                "activity_name": "Metro B train",
+                                "activity_type": "Transportation",
+                                "activity_description": "Take the B train to 42nd Street",
+                                "activity_address": "123 Main Street, New York, NY10001",
+                                "activity_phone": "",
+                                "activity_website": "",
+                                "activity_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/R68A_B_train_at_Prospect_Park.jpg/1200px-R68A_B_train_at_Prospect_Park.jpg",
+                                "activity_start_datetime": "2015-07-01 11:00:00",
+                                "activity_end_datetime": "2015-07-01 12:00:00",
+                                "activity_duration": 60,
+                                "activity_start_address": "123 Main Street, New York, NY10001",
+                                "activity_end_address": "100 Main Street, New York, NY10001",
+                                "activity_latitude": null,
+                                "activity_longitude": null
+                            },
+                            {
+                                "activity_id": 12,
+                                "activity_name": "Empire State Building",
+                                "activity_type": "Site",
+                                "activity_description": "Visit the Empire State Building",
+                                "activity_address": "20 W 34th St., New York, NY 10001",
+                                "activity_phone": "212-555-5555",
+                                "activity_website": "www.empirestatebuilding.com",
+                                "activity_image": "https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/21/202/tdih-may01-HD.jpg",
+                                "activity_start_datetime": "2015-07-01 12:00:00",
+                                "activity_end_datetime": "2015-07-01 14:00:00",
+                                "activity_duration": 120,
+                                "activity_start_address": "",
+                                "activity_end_address": "",
+                                "activity_latitude": 123.342,
+                                "activity_longitude": -70.343
+                            }
+                        ]
+                    },
+                    {
+                        "day_idx": 2,
+                        "activities": [
+                            {
+                                "activity_id": 1,
+                                "activity_name": "Visit Central Park",
+                                "activity_type": "Site",
+                                "activity_description": "Visit Central Park in a horse drawn carriage",
+                                "activity_address": "123 Main Street, New York, NY10001",
+                                "activity_phone": "212-555-5555",
+                                "activity_website": "http://www.centralparknyc.org/",
+                                "activity_image": "https://ohny.org/wp-content/uploads/2022/09/Harry_Gillen_via_Unsplash.jpeg",
+                                "activity_start_datetime": "2015-07-01 10:00:00",
+                                "activity_end_datetime": "2015-07-01 11:00:00",
+                                "activity_duration": 60,
+                                "activity_start_address": "",
+                                "activity_end_address": "",
+                                "activity_latitude": 123.342,
+                                "activity_longitude": -70.343
+                            },
+                            {
+                                "activity_id": 13413,
+                                "activity_name": "Metro B train",
+                                "activity_type": "Transportation",
+                                "activity_description": "Take the B train to 42nd Street",
+                                "activity_address": "123 Main Street, New York, NY10001",
+                                "activity_phone": "",
+                                "activity_website": "",
+                                "activity_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/R68A_B_train_at_Prospect_Park.jpg/1200px-R68A_B_train_at_Prospect_Park.jpg",
+                                "activity_start_datetime": "2015-07-01 11:00:00",
+                                "activity_end_datetime": "2015-07-01 12:00:00",
+                                "activity_duration": 60,
+                                "activity_start_address": "123 Main Street, New York, NY10001",
+                                "activity_end_address": "100 Main Street, New York, NY10001",
+                                "activity_latitude": null,
+                                "activity_longitude": null
+                            },
+                            {
+                                "activity_id": 12,
+                                "activity_name": "Columiba University",
+                                "activity_type": "Site",
+                                "activity_description": "Visit Columbia University",
+                                "activity_address": "123 Main Street, New York, NY10001",
+                                "activity_phone": "212-555-5555",
+                                "activity_website": "www.columbia.edu",
+                                "activity_image": "https://news.columbia.edu/sites/default/files/content/columbia-gs-alma-mater-butler-library.943x530.2.jpg",
+                                "activity_start_datetime": "2015-07-01 12:00:00",
+                                "activity_end_datetime": "2015-07-01 14:00:00",
+                                "activity_duration": 120,
+                                "activity_start_address": "",
+                                "activity_end_address": "",
+                                "activity_latitude": 123.342,
+                                "activity_longitude": -70.343
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
